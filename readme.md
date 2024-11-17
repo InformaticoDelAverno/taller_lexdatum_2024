@@ -24,7 +24,7 @@ Windows: CMD o PowerShell.
 ## Instrucciones por sistema operativo
 ### Linux y macOS
 #### Paso 1: Descargar el repositorio
-[Repositorio](https://github.com/InformaticoDelAverno/taller_lexdatum_2024)
+[Descargar repositorio](https://codeload.github.com/InformaticoDelAverno/taller_lexdatum_2024/zip/refs/heads/main)
 #### Paso 2: Construir la imagen Docker
 Ejecuta el siguiente script para construir la imagen Docker:
 
@@ -40,7 +40,7 @@ Asegúrate de reemplazar /ruta/a/tu/archivo.apk con la ruta al archivo APK que d
 Los resultados se guardarán junto al archivo APK, con un nombre como archivo_evidencias.txt.
 ### Windows
 #### Paso 1: Descargar el repositorio
-[Repositorio](https://github.com/InformaticoDelAverno/taller_lexdatum_2024)
+[Descargar repositorio](https://codeload.github.com/InformaticoDelAverno/taller_lexdatum_2024/zip/refs/heads/main)
 #### Paso 2: Construir la imagen Docker
 Ejecuta el script crear_imagen.bat:
 ```
